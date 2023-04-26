@@ -1,0 +1,24 @@
+.foot {
+    color:rgb(245, 240, 240);
+    background-color: #9999ff;
+}
+.shiv {
+    background-image: url(ldh.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
+ opacity:1;
+}
+.side {
+ font-style:center;
+ float:right;
+text-color:yellow;
+}
+.first {
+font-style:strong;
+font-color:#004d26;
+}
+.last {
+float:right;
+background-color:red;
+}
